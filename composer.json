@@ -1,9 +1,8 @@
 {
-    "name": "calliostro/discogs-bundle",
+    "name": "prhl2375/discogs-bundle",
     "description": "Bundle around the Discogs API client for Symfony 5 or Symfony 6",
     "type": "symfony-bundle",
     "keywords": ["discogs", "api"],
-    "homepage": "https://github.com/calliostro/CalliostroDiscogsBundle",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +12,10 @@
         {
             "name": "calliostro",
             "email": "calliostro@gmail.com"
+        },
+        {
+            "name": "Prhl2375",
+            "email": "dahippie25@gmail.com"
         }
     ],
     "require": {
